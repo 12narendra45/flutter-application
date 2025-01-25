@@ -28,7 +28,7 @@ class DataFetchingPage extends ConsumerWidget {
                 hintText:'Search item name',
                 prefixIcon:Icon(Icons.search),
                 border:OutlineInputBorder(
-                  borderRadius: BorderRadius.circular(9),
+                  borderRadius: BorderRadius.circular(8.0),
                 ),
               ),
             ),
