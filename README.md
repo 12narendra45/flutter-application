@@ -23,11 +23,11 @@ Follow these steps to run the app on your local machine:
 
 1. **Clone the repository**:
    First, clone this repository to your local machine:
-         1.Check if Git is already installed
+         Check if Git is already installed
            git --version
-         2.Click the Code button (usually green) near the top right and copy the url
-         3.Open Terminal or Command Prompt and Navigate to the folder where you want to clone the repository
-         4.Clone the Repository and Run the following command in the terminal:git clone https://github.com/12narendra45/flutter-application
+         Click the Code button (usually green) near the top right and copy the url
+         Open Terminal or Command Prompt and Navigate to the folder where you want to clone the repository
+         Clone the Repository and Run the following command in the terminal:git clone https://github.com/12narendra45/flutter-application
   
 2. **Install dependencies**:
    Run the following command to install all required dependencies for the Flutter app:
@@ -46,6 +46,7 @@ Follow these steps to run the app on your local machine:
      
      command: flutter run
 ## Project Information
+
      - Prject contains four main files main.dart,providers.dart,widgets.dart and data_fetching_data.data
      I have created the complete UI related task in the data_fetching_data.dart and Searching highlated and shimar effect in widgets.dart
 
