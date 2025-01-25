@@ -23,20 +23,24 @@ Follow these steps to run the app on your local machine:
 
 1. **Clone the repository**:
    First, clone this repository to your local machine:
+   
          Check if Git is already installed
            git --version
+   
          Click the Code button (usually green) near the top right and copy the url
+   
          Open Terminal or Command Prompt and Navigate to the folder where you want to clone the repository
+   
          Clone the Repository and Run the following command in the terminal:git clone https://github.com/12narendra45/flutter-application
   
-2. **Install dependencies**:
+3. **Install dependencies**:
    Run the following command to install all required dependencies for the Flutter app:
    
    flutter pub get
    
    dependencies:riverpod,shimar
 
-3. **Run the app**:
+5. **Run the app**:
    - For Android (ensure you have an emulator):
 
     command: flutter run 
